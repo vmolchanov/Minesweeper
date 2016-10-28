@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Picture/bomb.png</file>
+        <file>Picture/five.png</file>
+        <file>Picture/flag_green.png</file>
+        <file>Picture/four.png</file>
+        <file>Picture/one.png</file>
+        <file>Picture/three.png</file>
+        <file>Picture/two.png</file>
+        <file>Picture/eight.png</file>
+        <file>Picture/seven.png</file>
+        <file>Picture/six.png</file>
+        <file>Picture/clock.ico</file>
+        <file>Picture/bomb_6231.ico</file>
+    </qresource>
+</RCC>
